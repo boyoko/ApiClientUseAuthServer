@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClientUseAuthServer", "ApiClientUseAuthServer\ApiClientUseAuthServer.csproj", "{47FF0FB3-37F0-46F9-87D6-AF1E01FC86A8}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{80025A64-38E2-47A5-AEF4-5B854B9A9903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FF0FB3-37F0-46F9-87D6-AF1E01FC86A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FF0FB3-37F0-46F9-87D6-AF1E01FC86A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FF0FB3-37F0-46F9-87D6-AF1E01FC86A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FF0FB3-37F0-46F9-87D6-AF1E01FC86A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80025A64-38E2-47A5-AEF4-5B854B9A9903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80025A64-38E2-47A5-AEF4-5B854B9A9903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80025A64-38E2-47A5-AEF4-5B854B9A9903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80025A64-38E2-47A5-AEF4-5B854B9A9903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1E1B76-6D51-4671-B65B-621089516954}
+	EndGlobalSection
+EndGlobal
